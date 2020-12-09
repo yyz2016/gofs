@@ -1,1 +1,1 @@
-# gofstore
+# gofs
